@@ -5,5 +5,7 @@ main:
     url: "/#education"
   - title: "Research Interests"
     url: "/#research-interests"
+  - title: "Academic Services"
+    url: "/#academic-services"
   - title: "Publications"
     url: "/#selected-publications"

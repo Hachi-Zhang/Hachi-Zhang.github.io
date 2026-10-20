@@ -29,6 +29,13 @@ I am **Dehao Zhang**. I received my B.Eng. degree in Computer Science and Techno
 - Brain-inspired computing and spiking neural networks
 - Spiking Transformers and efficient sequence modeling
 
+<span class="anchor" id="academic-services"></span>
+
+# 💬 Academic Services
+
+- **Conference Reviewer:** NeurIPS, ICML, ICLR, CVPR, ICCV.
+- **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Transactions on Cognitive and Developmental Systems.
+
 <span class="anchor" id="selected-publications"></span>
 
 # 📝 Selected Publications
