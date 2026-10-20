@@ -25,11 +25,11 @@ author:
   avatar           : "/images/profile.jpg"
   bio              : "Ph.D. Student"
   tagline          : "Personal academic homepage"
-  location         :
+  location         : "Chengdu, Sichuan, China"
   employer         : "UESTC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JNSktnMylNQC&hl=zh-CN"
-  email            :
+  email            : "zhangdh@std.uestc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

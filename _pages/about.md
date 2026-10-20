@@ -12,9 +12,11 @@ redirect_from:
 
 I am **Dehao Zhang**. I received my B.Eng. degree in Computer Science and Technology from the China University of Geosciences (Wuhan) in 2023. I am currently pursuing a Ph.D. degree at the University of Electronic Science and Technology of China (UESTC). My research focuses on high-performance spiking neural networks and efficient neuron modeling. I have published papers in AI conferences, including NeurIPS, ICLR, and CVPR, and in the journal *Neural Networks*.
 
+[Email](mailto:zhangdh@std.uestc.edu.cn) · [Google Scholar](https://scholar.google.com/citations?user=JNSktnMylNQC&hl=zh-CN) · [GitHub](https://github.com/Hachi-Zhang)
+
 <span class="anchor" id="education"></span>
 
-# Education and Experience
+# 📖 Education and Experience
 
 - **2026.09–2029.06 (Expected)** — Joint-training graduate student, Center for Language, Intelligence and Machines, Shenzhen Loop Area Institute (SLAI).
 - **2023.09–2029.06 (Expected)** — Ph.D. student, School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC).
@@ -22,14 +24,14 @@ I am **Dehao Zhang**. I received my B.Eng. degree in Computer Science and Techno
 
 <span class="anchor" id="research-interests"></span>
 
-# Research Interests
+# 🔬 Research Interests
 
 - Brain-inspired computing and spiking neural networks
 - Spiking Transformers and efficient sequence modeling
 
 <span class="anchor" id="selected-publications"></span>
 
-# Selected Publications
+# 📝 Selected Publications
 
 The following is a selected list, not a complete publication record. Citation counts are from the [Google Scholar profile](https://scholar.google.com/citations?user=JNSktnMylNQC&hl=zh-CN) snapshot dated **2026-10-20**.
 
