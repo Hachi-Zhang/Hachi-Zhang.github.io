@@ -5,6 +5,8 @@ main:
     url: "/#education"
   - title: "Research Interests"
     url: "/#research-interests"
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
   - title: "Academic Services"
     url: "/#academic-services"
   - title: "Publications"

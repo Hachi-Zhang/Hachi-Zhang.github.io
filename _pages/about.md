@@ -29,6 +29,14 @@ I am **Dehao Zhang**. I received my B.Eng. degree in Computer Science and Techno
 - Brain-inspired computing and spiking neural networks
 - Spiking Transformers and efficient sequence modeling
 
+<span class="anchor" id="honors-and-awards"></span>
+
+# 🎖 Honors and Awards
+
+- **2026.06** — First Prize, AdoDAS Challenge at ACM Multimedia 2026.
+- **2026.03** — Graduate Academic Seedling Award (研究生“学术青苗”奖), University of Electronic Science and Technology of China.
+- **2025** — Oral Presentation, CVPR 2025, for *Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers*.
+
 <span class="anchor" id="academic-services"></span>
 
 # 💬 Academic Services
