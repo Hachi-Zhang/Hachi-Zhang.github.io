@@ -92,9 +92,19 @@
   }
 
   img {
+    display: block;
+    width: 75px;
+    height: 75px;
     max-width: 175px;
     min-width: 75px;
+    object-fit: cover;
     border-radius: 50%;
+
+    @include breakpoint($large) {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1;
+    }
 
     @include breakpoint($large) {
       padding: 5px;
@@ -234,7 +244,10 @@
   }
 
   li {
-    white-space: nowrap;
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
   a {

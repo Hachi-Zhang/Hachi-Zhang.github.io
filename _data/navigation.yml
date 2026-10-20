@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: "/#about"
+  - title: "Education and Training"
+    url: "/#education-and-training"
   - title: "Research"
     url: "/#research"
   - title: "Selected Publications"

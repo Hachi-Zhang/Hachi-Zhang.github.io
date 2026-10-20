@@ -12,7 +12,15 @@ redirect_from:
 
 # About
 
-I am **Dehao Zhang** at the **University of Electronic Science and Technology of China (UESTC)**. My research focuses on **Spiking Neural Networks**, including neuromorphic signal processing and efficient spiking architectures. My Google Scholar profile has a verified email at the domain `std.uestc.edu.cn`.
+I am **Dehao Zhang**, an **M.S.–Ph.D. student in the integrated program** at the **University of Electronic Science and Technology of China (UESTC)**. My research focuses on **Spiking Neural Networks**, including neuromorphic signal processing and efficient spiking architectures. My Google Scholar profile has a verified email at the domain `std.uestc.edu.cn`.
+
+<span class="anchor" id="education-and-training"></span>
+
+# Education and Training
+
+- **2026.09–2029.06 (Expected)** — Joint-training graduate student, Center for Language, Intelligence and Machines, Shenzhen Loop Area Institute (SLAI).
+- **2023.09–2029.06 (Expected)** — Student in the Integrated M.S.–Ph.D. Program, School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC).
+- **2019.09–2023.06** — Bachelor's degree, School of Computer Science, China University of Geosciences (Wuhan).
 
 <span class="anchor" id="research"></span>
 
