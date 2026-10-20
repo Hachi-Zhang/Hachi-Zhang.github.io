@@ -48,32 +48,114 @@ I am **Dehao Zhang**. I received my B.Eng. degree in Computer Science and Techno
 
 # 📝 Selected Publications
 
-The following is a selected list, not a complete publication record. Citation counts are from the [Google Scholar profile](https://scholar.google.com/citations?user=JNSktnMylNQC&hl=zh-CN) snapshot dated **2026-10-20**.
+The following is a selected list, not a complete publication record. CCF classifications follow the current CCF recommended venue list.
 
-1. [**Spiking vision transformer with saccadic attention**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:W7OEmFMy1HYC)<br>
-   S Wang, M Zhang, **D Zhang**, A Belatreche, Y Xiao, Y Liang, Y Shan, ...<br>
-   *ICLR 2025* · 66 citations
+## Representative Papers
 
-2. [**Ternary spike-based neuromorphic signal processing system**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:LkGwnXOMwfcC)<br>
-   S Wang, **D Zhang**, A Belatreche, Y Xiao, H Qing, W Wei, M Zhang, Y Yang<br>
-   *Neural Networks 187, 107333 (2025)* · 36 citations
+† Equal contribution. My name is shown in bold.
 
-3. [**Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:_FxGoFyzp5QC)<br>
-   Y Xiao, S Wang, **D Zhang**, W Wei, Y Shan, X Liu, Y Jiang, M Zhang<br>
-   *CVPR 2025 Oral* · 27 citations
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">ICLR 2026</span>
+    <img src="{{ '/images/publications/neural-dynamics-self-attention.jpg' | relative_url }}" alt="Neural Dynamics Self-Attention for Spiking Transformers paper illustration">
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://arxiv.org/abs/2603.19290">Neural Dynamics Self-Attention for Spiking Transformers</a></h3>
+    <p><strong>Dehao Zhang</strong>, Fukai Guo, Shuai Wang, Jingya Wang, Jieyuan Zhang, Yimeng Shan, Malu Zhang, Yang Yang, Haizhou Li</p>
+    <p><strong>ICLR 2026, Poster</strong></p>
+    <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
+    <ul>
+      <li>Introduces LRF-Dyn to restore locality in spiking self-attention through localized receptive fields.</li>
+      <li>Uses charge–fire–reset neuronal dynamics to avoid explicit attention-matrix storage and reduce inference memory.</li>
+    </ul>
+    <p><a href="https://arxiv.org/abs/2603.19290">[Paper]</a> <a href="https://openreview.net/forum?id=jJedqisfOt">[OpenReview]</a></p>
+  </div>
+</div>
 
-4. [**Spike-based neuromorphic model for sound source localization**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:zYLM7Y9cAGgC)<br>
-   **D Zhang**, S Wang, A Belatreche, W Wei, Y Xiao, H Zheng, Z Zhou, ...<br>
-   *NeurIPS 2024* · 25 citations
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">NeurIPS 2024</span>
+    <img src="{{ '/images/publications/spike-sound-source-localization.jpg' | relative_url }}" alt="Spike-Based Neuromorphic Model for Sound Source Localization paper illustration">
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/ce953d71deeb33d9ffa2c879b518d273-Abstract-Conference.html">Spike-Based Neuromorphic Model for Sound Source Localization</a></h3>
+    <p><strong>Dehao Zhang</strong>†, Shuai Wang†, Ammar Belatreche, Wenjie Wei, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang</p>
+    <p><strong>NeurIPS 2024, Poster</strong></p>
+    <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
+    <ul>
+      <li>Develops RF-PLC with Resonate-and-Fire neurons to encode interaural time-difference cues as spike patterns.</li>
+      <li>Introduces multi-auditory attention for accurate and noise-robust sound-source localization.</li>
+    </ul>
+    <p><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/ce953d71deeb33d9ffa2c879b518d273-Abstract-Conference.html">[Paper]</a> <a href="https://openreview.net/forum?id=CyCDqnrymT">[OpenReview]</a></p>
+  </div>
+</div>
 
-5. [**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:YsMSGLbcyi4C)<br>
-   **D Zhang**, S Wang, Y Xiao, W Wei, Y Shan, M Zhang, Y Yang<br>
-   *ICASSP 2025* · 14 citations
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">NeurIPS 2025</span>
+    <img src="{{ '/images/publications/dendritic-resonate-and-fire.jpg' | relative_url }}" alt="Dendritic Resonate-and-Fire Neuron paper illustration">
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://arxiv.org/abs/2509.17186">Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling</a></h3>
+    <p><strong>Dehao Zhang</strong>, Malu Zhang, Shuai Wang, Jingya Wang, Wenjie Wei, Zeyu Ma, Guoqing Wang, Yang Yang, Haizhou Li</p>
+    <p><strong>NeurIPS 2025, Poster</strong></p>
+    <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
+    <ul>
+      <li>Proposes a multi-dendritic Resonate-and-Fire neuron to encode complementary frequency bands for long sequences.</li>
+      <li>Uses an adaptive soma threshold to reduce redundant spikes while maintaining training efficiency.</li>
+    </ul>
+    <p><a href="https://arxiv.org/abs/2509.17186">[Paper]</a> <a href="https://openreview.net/forum?id=ywzGKDStrm">[OpenReview]</a></p>
+  </div>
+</div>
 
-6. [**Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:UebtZRa9Y70C)<br>
-   **D Zhang**, M Zhang, S Wang, J Wang, W Wei, Z Ma, G Wang, Y Yang, H Li<br>
-   *NeurIPS 2025* · 11 citations
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">CVPR 2025 Oral</span>
+    <img src="{{ '/images/publications/alpha-xnor-spiking-transformer.jpg' | relative_url }}" alt="Alpha-XNOR spiking self-attention paper illustration">
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.html">Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers</a></h3>
+    <p>Yichen Xiao, Shuai Wang, <strong>Dehao Zhang</strong>, Wenjie Wei, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang</p>
+    <p><strong>CVPR 2025, Oral</strong></p>
+    <span class="pub-tags"><span class="pub-tag">CCF-A</span><span class="pub-tag pub-tag--oral">Oral</span></span>
+    <ul>
+      <li>Introduces α-XNOR similarity to model both spike and non-spike matches in spiking self-attention.</li>
+      <li>Improves spiking Transformer performance across static and neuromorphic vision datasets.</li>
+    </ul>
+    <p><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.html">[Paper]</a> <a href="https://cvpr.thecvf.com/virtual/2025/oral/35309">[CVPR Oral]</a></p>
+  </div>
+</div>
 
-7. [**Neural Dynamics Self-Attention for Spiking Transformers**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:3fE2CSJIrl8C)<br>
-   **D Zhang**, F Guo, S Wang, J Wang, J Zhang, Y Shan, M Zhang, Y Yang, ...<br>
-   *ICLR 2026* · 1 citation
+## Additional Selected Papers
+
+1. [**Spiking Vision Transformer with Saccadic Attention**](https://openreview.net/forum?id=qzZsz6MuEq)<br>
+   Shuai Wang, Malu Zhang, **Dehao Zhang**, Ammar Belatreche, Yichen Xiao, Yu Liang, Yimeng Shan, Qian Sun, Enqi Zhang, Yang Yang<br>
+   *ICLR 2025* <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
+
+2. [**Ternary Spike-Based Neuromorphic Signal Processing System**](https://doi.org/10.1016/j.neunet.2025.107333)<br>
+   Shuai Wang, **Dehao Zhang**, Ammar Belatreche, Yichen Xiao, Hongyu Qing, Wenjie Wei, Malu Zhang, Yang Yang<br>
+   *Neural Networks 187, 107333 (2025)* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
+
+3. [**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:YsMSGLbcyi4C)<br>
+   **Dehao Zhang**, Shuai Wang, Yichen Xiao, Wenjie Wei, Yimeng Shan, Malu Zhang, Yang Yang<br>
+   *ICASSP 2025* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
+
+4. [**Binary Event-Driven Spiking Transformer**](https://www.ijcai.org/proceedings/2025/458)<br>
+   Honglin Cao, Zijian Zhou, Wenjie Wei, Yu Liang, Ammar Belatreche, **Dehao Zhang**, Malu Zhang, Yang Yang, Haizhou Li<br>
+   *IJCAI 2025* <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
+
+5. [**Global-Local Convolution with Spiking Neural Networks for Energy-Efficient Keyword Spotting**](https://www.isca-archive.org/interspeech_2024/wang24p_interspeech.html)<br>
+   Shuai Wang, **Dehao Zhang**, Kexin Shi, Yuchen Wang, Wenjie Wei, Jibin Wu, Malu Zhang<br>
+   *INTERSPEECH 2024* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
+
+6. [**SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks**](https://openaccess.thecvf.com/content/CVPR2026/html/Shan_SDTrack_A_Baseline_for_Event-based_Tracking_via_Spiking_Neural_Networks_CVPR_2026_paper.html)<br>
+   Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, **Dehao Zhang**, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Malu Zhang<br>
+   *CVPR 2026, Oral* <span class="pub-tags"><span class="pub-tag">CCF-A</span><span class="pub-tag pub-tag--oral">Oral</span></span>
+
+## Preprints and Manuscripts
+
+Venue classification only; the manuscript is under review and has not been accepted.
+
+1. **Neuronal Oscillatory Memory Modeling for Spiking Transformers**<br>
+   **Dehao Zhang**, Malu Zhang, Ammar Belatreche, Guoqing Wang, Yang Yang, Huajin Tang, Haizhou Li<br>
+   *TPAMI manuscript under review.* <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
