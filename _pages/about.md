@@ -128,29 +128,47 @@ The following is a selected list, not a complete publication record. CCF classif
 
 ## Additional Selected Papers
 
-1. [**Spiking Vision Transformer with Saccadic Attention**](https://openreview.net/forum?id=qzZsz6MuEq)<br>
+Spotlight and Oral labels indicate official presentation distinctions.
+
+1. [**Robust Spiking Neural Networks Against Adversarial Attacks**](https://openreview.net/forum?id=qTqAL2t8Aa)<br>
+   Shuai Wang, Malu Zhang, Yulin Jiang, **Dehao Zhang**, Ammar Belatreche, Yu Liang, Yimeng Shan, Zijian Zhou, Yang Yang, Haizhou Li<br>
+   *ICLR 2026, Poster* <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
+
+2. [**TP-Spikformer: Token Pruned Spiking Transformer**](https://openreview.net/forum?id=L5llQD0nMf)<br>
+   Wenjie Wei, Xiaolong Zhou, Malu Zhang, Ammar Belatreche, Qian Sun, Yimeng Shan, **Dehao Zhang**, Zijian Zhou, Zeyu Ma, Yang Yang, Haizhou Li<br>
+   *ICLR 2026, Poster* <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
+
+3. [**SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks**](https://openaccess.thecvf.com/content/CVPR2026/html/Shan_SDTrack_A_Baseline_for_Event-based_Tracking_via_Spiking_Neural_Networks_CVPR_2026_paper.html)<br>
+   Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, **Dehao Zhang**, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Malu Zhang<br>
+   *CVPR 2026, Oral* <span class="pub-tags"><span class="pub-tag">CCF-A</span><span class="pub-tag pub-tag--oral">Oral</span></span>
+
+4. [**Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformers**](https://ojs.aaai.org/index.php/AAAI/article/view/37195)<br>
+   Jingya Wang, Xin Deng, Wenjie Wei, **Dehao Zhang**, Shuai Wang, Qian Sun, Jieyuan Zhang, Hanwen Liu, Ning Xie, Malu Zhang<br>
+   *AAAI 2026* <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
+
+5. [**Bipolar Self-attention for Spiking Transformers**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/9316cfcb0a81e53a1f35b4353f115571-Abstract-Conference.html)<br>
+   Shuai Wang, Malu Zhang, Jingya Wang, **Dehao Zhang**, Yimeng Shan, Jieyuan Zhang, Yichen Xiao, Honglin Cao, Haonan Zhang, Zeyu Ma, Yang Yang, Haizhou Li<br>
+   *NeurIPS 2025, Spotlight* <span class="pub-tags"><span class="pub-tag">CCF-A</span><span class="pub-tag pub-tag--spotlight">Spotlight</span></span>
+
+6. [**Spiking Vision Transformer with Saccadic Attention**](https://openreview.net/forum?id=qzZsz6MuEq)<br>
    Shuai Wang, Malu Zhang, **Dehao Zhang**, Ammar Belatreche, Yichen Xiao, Yu Liang, Yimeng Shan, Qian Sun, Enqi Zhang, Yang Yang<br>
    *ICLR 2025* <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
 
-2. [**Ternary Spike-Based Neuromorphic Signal Processing System**](https://doi.org/10.1016/j.neunet.2025.107333)<br>
-   Shuai Wang, **Dehao Zhang**, Ammar Belatreche, Yichen Xiao, Hongyu Qing, Wenjie Wei, Malu Zhang, Yang Yang<br>
-   *Neural Networks 187, 107333 (2025)* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
-
-3. [**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:YsMSGLbcyi4C)<br>
-   **Dehao Zhang**, Shuai Wang, Yichen Xiao, Wenjie Wei, Yimeng Shan, Malu Zhang, Yang Yang<br>
-   *ICASSP 2025* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
-
-4. [**Binary Event-Driven Spiking Transformer**](https://www.ijcai.org/proceedings/2025/458)<br>
+7. [**Binary Event-Driven Spiking Transformer**](https://www.ijcai.org/proceedings/2025/458)<br>
    Honglin Cao, Zijian Zhou, Wenjie Wei, Yu Liang, Ammar Belatreche, **Dehao Zhang**, Malu Zhang, Yang Yang, Haizhou Li<br>
    *IJCAI 2025* <span class="pub-tags"><span class="pub-tag">CCF-A</span></span>
 
-5. [**Global-Local Convolution with Spiking Neural Networks for Energy-Efficient Keyword Spotting**](https://www.isca-archive.org/interspeech_2024/wang24p_interspeech.html)<br>
-   Shuai Wang, **Dehao Zhang**, Kexin Shi, Yuchen Wang, Wenjie Wei, Jibin Wu, Malu Zhang<br>
-   *INTERSPEECH 2024* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
+8. [**Ternary Spike-Based Neuromorphic Signal Processing System**](https://doi.org/10.1016/j.neunet.2025.107333)<br>
+   Shuai Wang, **Dehao Zhang**, Ammar Belatreche, Yichen Xiao, Hongyu Qing, Wenjie Wei, Malu Zhang, Yang Yang<br>
+   *Neural Networks 187, 107333 (2025)* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
 
-6. [**SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks**](https://openaccess.thecvf.com/content/CVPR2026/html/Shan_SDTrack_A_Baseline_for_Event-based_Tracking_via_Spiking_Neural_Networks_CVPR_2026_paper.html)<br>
-   Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, **Dehao Zhang**, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Malu Zhang<br>
-   *CVPR 2026, Oral* <span class="pub-tags"><span class="pub-tag">CCF-A</span><span class="pub-tag pub-tag--oral">Oral</span></span>
+9. [**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:YsMSGLbcyi4C)<br>
+   **Dehao Zhang**, Shuai Wang, Yichen Xiao, Wenjie Wei, Yimeng Shan, Malu Zhang, Yang Yang<br>
+   *ICASSP 2025* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
+
+10. [**Global-Local Convolution with Spiking Neural Networks for Energy-Efficient Keyword Spotting**](https://www.isca-archive.org/interspeech_2024/wang24p_interspeech.html)<br>
+    Shuai Wang, **Dehao Zhang**, Kexin Shi, Yuchen Wang, Wenjie Wei, Jibin Wu, Malu Zhang<br>
+    *INTERSPEECH 2024* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
 
 ## Preprints and Manuscripts
 
