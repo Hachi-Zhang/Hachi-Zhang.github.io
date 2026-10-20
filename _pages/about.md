@@ -126,6 +126,24 @@ The following is a selected list, not a complete publication record. CCF classif
   </div>
 </div>
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">ICASSP 2025</span>
+    <img src="{{ '/images/publications/mfp-qsnn-icassp-2025.jpg' | relative_url }}" alt="MFP-QSNN parallel training and asynchronous inference framework">
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="https://arxiv.org/abs/2503.00040">Memory-Free and Parallel Computation for Quantized Spiking Neural Networks</a></h3>
+    <p><strong>Dehao Zhang</strong>, Shuai Wang, Yichen Xiao, Wenjie Wei, Yimeng Shan, Malu Zhang, Yang Yang</p>
+    <p><strong>ICASSP 2025</strong></p>
+    <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
+    <ul>
+      <li>Introduces memory-free quantization that retains historical information without directly storing membrane potentials.</li>
+      <li>Combines parallel training with asynchronous inference to improve training speed and energy efficiency.</li>
+    </ul>
+    <p><a href="https://doi.org/10.1109/ICASSP49660.2025.10890361">[Paper]</a> <a href="https://arxiv.org/abs/2503.00040">[arXiv]</a></p>
+  </div>
+</div>
+
 ## Additional Selected Papers
 
 Spotlight and Oral labels indicate official presentation distinctions.
@@ -162,11 +180,7 @@ Spotlight and Oral labels indicate official presentation distinctions.
    Shuai Wang, **Dehao Zhang**, Ammar Belatreche, Yichen Xiao, Hongyu Qing, Wenjie Wei, Malu Zhang, Yang Yang<br>
    *Neural Networks 187, 107333 (2025)* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
 
-9. [**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:YsMSGLbcyi4C)<br>
-   **Dehao Zhang**, Shuai Wang, Yichen Xiao, Wenjie Wei, Yimeng Shan, Malu Zhang, Yang Yang<br>
-   *ICASSP 2025* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
-
-10. [**Global-Local Convolution with Spiking Neural Networks for Energy-Efficient Keyword Spotting**](https://www.isca-archive.org/interspeech_2024/wang24p_interspeech.html)<br>
+9. [**Global-Local Convolution with Spiking Neural Networks for Energy-Efficient Keyword Spotting**](https://www.isca-archive.org/interspeech_2024/wang24p_interspeech.html)<br>
     Shuai Wang, **Dehao Zhang**, Kexin Shi, Yuchen Wang, Wenjie Wei, Jibin Wu, Malu Zhang<br>
     *INTERSPEECH 2024* <span class="pub-tags"><span class="pub-tag">CCF-B</span></span>
 
