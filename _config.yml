@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dehao Zhang"
-description              : "Dehao Zhang — Integrated M.S.–Ph.D. student at the University of Electronic Science and Technology of China, researching Spiking Neural Networks."
+description              : "Dehao Zhang is a Ph.D. student at the University of Electronic Science and Technology of China, researching high-performance spiking neural networks and efficient neuron modeling."
 repository               : "Hachi-Zhang/Hachi-Zhang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dehao Zhang"
   avatar           : "/images/profile.jpg"
-  bio              : "Spiking Neural Networks"
+  bio              : "Ph.D. Student"
   location         :
   employer         : "University of Electronic Science and Technology of China"
   pubmed           : 

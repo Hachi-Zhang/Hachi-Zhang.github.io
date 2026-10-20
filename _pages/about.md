@@ -8,25 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-<span class="anchor" id="about"></span>
+<span class="anchor" id="about-me"></span>
 
-# About
+# About Me
 
-I am **Dehao Zhang**, an **M.S.–Ph.D. student in the integrated program** at the **University of Electronic Science and Technology of China (UESTC)**. My research focuses on **Spiking Neural Networks**, including neuromorphic signal processing and efficient spiking architectures. My Google Scholar profile has a verified email at the domain `std.uestc.edu.cn`.
+I am **Dehao Zhang**. I received my B.Eng. degree in Computer Science and Technology from the China University of Geosciences (Wuhan) in 2023. I am currently pursuing a Ph.D. degree at the University of Electronic Science and Technology of China (UESTC). My research focuses on high-performance spiking neural networks and efficient neuron modeling. I have published papers in AI conferences, including NeurIPS, ICLR, and CVPR, and in the journal *Neural Networks*.
 
-<span class="anchor" id="education-and-training"></span>
+<span class="anchor" id="education"></span>
 
-# Education and Training
+# Education and Experience
 
 - **2026.09–2029.06 (Expected)** — Joint-training graduate student, Center for Language, Intelligence and Machines, Shenzhen Loop Area Institute (SLAI).
-- **2023.09–2029.06 (Expected)** — Student in the Integrated M.S.–Ph.D. Program, School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC).
-- **2019.09–2023.06** — Bachelor's degree, School of Computer Science, China University of Geosciences (Wuhan).
+- **2023.09–2029.06 (Expected)** — Ph.D. student, School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC).
+- **2019.09–2023.06** — B.Eng. in Computer Science and Technology, School of Computer Science, China University of Geosciences (Wuhan).
 
-<span class="anchor" id="research"></span>
+<span class="anchor" id="research-interests"></span>
 
-# Research
+# Research Interests
 
-My research interests center on biologically inspired and energy-efficient neural computation, particularly Spiking Neural Networks for vision, audio, sequence modeling, and transformer architectures.
+- Brain-inspired computing and spiking neural networks
+- Spiking Transformers and efficient sequence modeling
 
 <span class="anchor" id="selected-publications"></span>
 
