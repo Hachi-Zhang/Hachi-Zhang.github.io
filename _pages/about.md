@@ -10,8 +10,6 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-# About Me
-
 I am **Dehao Zhang**. I received my B.Eng. degree in Computer Science and Technology from the China University of Geosciences (Wuhan) in 2023. I am currently pursuing a Ph.D. degree at the University of Electronic Science and Technology of China (UESTC). My research focuses on high-performance spiking neural networks and efficient neuron modeling. I have published papers in AI conferences, including NeurIPS, ICLR, and CVPR, and in the journal *Neural Networks*.
 
 <span class="anchor" id="education"></span>
@@ -62,10 +60,3 @@ The following is a selected list, not a complete publication record. Citation co
 7. [**Neural Dynamics Self-Attention for Spiking Transformers**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JNSktnMylNQC&citation_for_view=JNSktnMylNQC:3fE2CSJIrl8C)<br>
    **D Zhang**, F Guo, S Wang, J Wang, J Zhang, Y Shan, M Zhang, Y Yang, ...<br>
    *ICLR 2026* · 1 citation
-
-<span class="anchor" id="profiles"></span>
-
-# Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?user=JNSktnMylNQC&hl=zh-CN) — 320 citations, h-index 11, i10-index 12 (snapshot dated 2026-10-20)
-- [GitHub](https://github.com/Hachi-Zhang)
